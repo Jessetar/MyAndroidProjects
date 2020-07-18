@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "904892862359",
+    "firebase_url": "https://t3waecquestions.firebaseio.com",
+    "project_id": "t3waecquestions",
+    "storage_bucket": "t3waecquestions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:904892862359:android:d1b7f2189dce3ad5663ed2",
+        "android_client_info": {
+          "package_name": "com.jessetar.t3waecquestions"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "904892862359-kchfi0t4hgrv8grk9krp8uip97b2o0fs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jessetar.t3waecquestions",
+            "certificate_hash": "c99e4940d21b37ec33d31d8f275f01f8fef61efa"
+          }
+        },
+        {
+          "client_id": "904892862359-fif8vphhucm4u6qsbfo9nj42rtmn4mj1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9dI8nE0k3NgvnfgP-v3b5x0bMhmzeuF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "904892862359-fif8vphhucm4u6qsbfo9nj42rtmn4mj1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
